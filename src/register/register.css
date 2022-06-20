@@ -1,0 +1,54 @@
+.bi-info-circle {
+  position: absolute;
+  top: 30%;
+  left: 101%;
+}
+
+#notValid {
+  color: red;
+  font-size: 12pt;
+}
+
+#weak {
+  color: orange;
+  font-size: 12pt;
+}
+
+#strong {
+  color: green;
+  font-size: 12pt;
+}
+
+#image {
+  width: 80%;
+  margin: auto
+}
+
+
+#logoR {
+  height: 20%;
+  position: absolute;
+  top: 1.9%;
+  left: 43%;
+  z-index: 2;
+}
+
+
+.centerR {
+  position: absolute;
+  top: 15%;
+  left: 20%;
+  font-family: Times New Roman;
+  width: 60%;
+  margin: auto;
+  background-color: rgb(248, 249, 250);
+}
+
+.form-floating{
+  width: 95%;
+}
+
+.table>:not(caption)>*>* {
+    padding: 0;
+
+}

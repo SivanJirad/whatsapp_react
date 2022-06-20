@@ -1,0 +1,76 @@
+.textBox{
+    margin: 0;
+    width: 100%;
+}
+
+.allChat{
+  overflow: auto;
+}
+
+.message{
+    border-radius: 10px;
+    margin: 20px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    overflow-wrap: anywhere;
+    margin-bottom: 0;
+    padding: 10px;
+    padding-bottom: 0;
+    max-width: 50%;
+
+}
+
+
+.chat-log_time {
+	font-size: 12px;
+	opacity: 0.5;
+  text-align: left;
+  border-top: 0.5px solid;
+  margin: 1pt;
+
+
+}
+
+.send{
+  float:left;
+  text-align: left;
+  clear:both;
+  margin-right: 0.7rem;
+  border-radius: 0 20px 20px 20px;
+
+}
+
+.recieve{
+  text-align: left;
+  float:right;
+  clear:both;
+  margin-left: 0.7rem;
+  border-radius: 20px 0 20px 20px;
+}
+
+audio{
+background-color: transparent;
+border-color: transparent;
+width:200px; 
+
+}
+
+.icon-send{
+  margin: 5pt;
+}
+
+
+.sizeImage{
+width: 200px;
+}
+
+
+.message-scroll{
+  flex: 1 1 auto;
+  overflow-y: auto;
+  height: 65.5vh;
+  display: flex;
+  flex-direction: column-reverse;
+  overflow-x: hidden;
+}

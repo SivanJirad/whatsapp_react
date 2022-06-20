@@ -1,0 +1,59 @@
+.attchment-icon{
+font-size: xx-large;
+cursor: pointer;
+
+}
+
+#mic{
+position: absolute;
+top: 80%;
+left: 2%;
+background-color: rgb(66 115 216);
+border-radius: 10px;
+color: white;
+}
+
+.popover{
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.bi-paperclip {
+    font-size: x-large;
+    cursor: pointer;
+}
+
+
+.chooseImage{
+    display: none;
+} 
+
+
+.mic-color{
+    background-color: aqua;
+    border-radius: 10px;
+}
+
+
+
+.file-color{
+    background-color:aquamarine;
+    border-radius: 10px;
+}
+
+
+.image-color{
+    background-color: plum;
+    border-radius: 10px;
+}
+
+
+.video-color{
+    background-color: rgb(240, 174, 162);
+    border-radius: 10px;
+}
+
+
+.margin-from-mic{
+    margin-top: 10pt;
+}

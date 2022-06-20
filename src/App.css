@@ -2,6 +2,19 @@
   text-align: center;
 }
 
+#root, body,html{
+ width: 100%;
+ height: 100%;
+padding: 0;
+margin: 0%;
+}
+
+body{
+
+  width: 100%;
+  background: linear-gradient(180deg, #b29db3e2 30%,rgb(223, 221, 226) 30%);
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
