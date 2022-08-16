@@ -13,7 +13,7 @@ This app uses react, react-boorstrap, react-router-dom and signalR. In order to 
 ## How To Run?
 1. pull all files from git
 2. install all packages using the commands above
-3. run the server - https://github.com/SivanJirad/WhatsappProject
+3. run the server -  https://github.com/ofrizangi/Whatsapp_Server2
 4. run the command - npm start
 
 ## Important To Read:
